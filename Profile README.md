@@ -13,7 +13,7 @@ I am a **Software Developer** currently based in **Leamington, Ontario**. I am p
 - 💡 Building projects that solve real-world problems.
 
 ### 📫 How to reach me:
-- **LinkedIn:** [Link a tu LinkedIn]
+- **LinkedIn:** www.linkedin.com/in/arturo-cuello-a46632316
 - **Email:** arturoguerrero882@gmail.com
 - **Location:** Leamington, ON, Canada
 
