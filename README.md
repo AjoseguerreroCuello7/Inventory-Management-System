@@ -1,4 +1,4 @@
-# [Nombre del Proyecto - Ej: Inventory Management System]
+Inventory Management System
 
 A desktop application developed in **Java** that focuses on [explicar el objetivo: ej. managing data, solving logical puzzles, etc.]. This project demonstrates my understanding of Object-Oriented Programming (OOP) and software structure.
 
